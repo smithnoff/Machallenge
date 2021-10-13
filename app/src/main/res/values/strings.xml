@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Machallenge</string>
+    <string name="title_contacts">Contactos</string>
+    <string name="title_favorites">Favoritos</string>
+</resources>
